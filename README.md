@@ -1,4 +1,4 @@
-# Polar H7 Bluetooth handler
+# Polar H7 Bluetooth Handler
 
 Written in Python. Connects to a Polar H7 chest strap using Bluetooth Low Energy (BLE). Transfers heartbeat & RR interval data in real-time.
 
