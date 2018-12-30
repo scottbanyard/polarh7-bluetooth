@@ -2,6 +2,8 @@
 
 Written in Python. Connects to a Polar H7 chest strap using Bluetooth Low Energy (BLE). Transfers heartbeat & RR interval data in real-time.
 
+Within the source code, Firebase uploads are commented out. These can be uncommented back in if necessary - each result in real-time is pushed to Firebase using threading.
+
 ## Installation
 
 - Pull / clone this repository.
